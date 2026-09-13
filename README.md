@@ -10,3 +10,5 @@ codex
 ```
 
 Requires `uv`.
+
+Benchmark setup and evidence rules: [BENCHMARKS.md](BENCHMARKS.md).
