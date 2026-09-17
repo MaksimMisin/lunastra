@@ -5,7 +5,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "uv run --no-project ${LUNASTRA_HOME:-$HOME/code/lunastra}/hook.py"
+            "command": "uv run --no-project \"${LUNASTRA_HOME:-$HOME/code/lunastra}/hook.py\""
           }
         ]
       }
